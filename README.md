@@ -98,3 +98,30 @@ Como o jogo é um único arquivo HTML, você pode:
 ---
 
 ## 📁 Estrutura do Projeto
+
+/
+├── index.html # Código completo do jogo (HTML + CSS + JS)
+└── README.md # Este arquivo
+
+
+---
+
+## 📝 Créditos
+
+- Desenvolvido por **Seu Nome** (ou equipe).
+- Design inspirado em jogos clássicos de habilidade e reação.
+- Ícones e emojis usados de acordo com a licença Unicode.
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT – sinta-se livre para usar, modificar e distribuir.
+
+---
+
+Divirta-se e voe alto! 🐝✨
+
+---
+
+*Se encontrar algum bug ou tiver sugestões, sinta-se à vontade para abrir uma issue ou contribuir!*
